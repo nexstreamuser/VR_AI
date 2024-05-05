@@ -2,7 +2,7 @@ import socket
 import threading
 import pyaudio
 
-AWS_IP = ""
+AWS_IP = "13.60.60.113"
 AWS_PORT = 5000
 
 class AudioClient:
